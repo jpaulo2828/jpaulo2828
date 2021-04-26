@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @jpaulo2828
 
-- 👀 Currently building StackForge, a buffet of technologies for you to pick and generate a DevOps-ready codebase for full stack web apps in a few click's
-
-- 💞️ Dev experience and infra architecture enthusiast 
-
 - 📫 Reach me at jpaulo2828@gmail.com
 
 <!---
